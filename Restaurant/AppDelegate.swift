@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Restaurant
 //
-//  Created by apple on 2022/5/15.
+//  Created by ChubbyKki on 2022/5/15.
 //
 
 import UIKit
